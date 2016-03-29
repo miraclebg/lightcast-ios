@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Lightcast iOS' target in the 'Lightcast iOS' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <Lightcast/Lightcast.h>
+#endif

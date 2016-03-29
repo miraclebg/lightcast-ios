@@ -1,0 +1,299 @@
+/* LWebServiceClient.m */
+"General error: %@" = "Error general de la aplicación: %@";
+
+/* LWebServiceClient.m */
+"Cannot create request" = "No se pudo generar la petición.";
+
+/* LC.m */
+"Initializing complete!" = "¡Inicialización completada!";
+
+/* LUrlDownloader.m */
+"Connection is closed" = "Conexión cerrada";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - adapter with type: %@ does not exist" = "AppDatabaseInstance con identificador: (%@) no puede inicializarse - el adaptador con tipo %@ no existe";
+
+/* LUrlDownloader.m */
+"Invalid Server Response (%d)" = "Respuesta de servidor no válida (%d)";
+
+/* UI-General.m */
+"Alert" = "Aviso";
+
+/* LUrlDownloader.m */
+"Could not write downloaded data to disk: %@" = "No se pudo guardar en disco: %@";
+
+/* LWebServiceClient.m */
+"Invalid Parameters - missing serviceName" = "Parámetros no válidos - falta el nombre de servicio";
+
+/* LiTunesProductsRequest.m */
+"No products returned" = "No se produjeron resultados.";
+
+/* LViewController.m, NSWindow+Additions.m, LVirtualFSPlugin.m */
+"Error" = "Error";
+
+/* LC.m */
+"Initializing system objects" = "Inicializando objetos del sistema";
+
+/* GeneralUtils.m */
+"Close" = "Cerrar";
+
+/* LTableViewPullRefresh.m */
+"Loading..." = "Cargando...";
+
+/* LAppUpgrades.m */
+"Upgrade to build %\" NSINT \" has failed: %@" = "La actualización a la versión %\" NSINT \" ha fallado: %@";
+
+/* LTableViewPullRefresh.m */
+"Pull down to refresh..." = "Tirar para refrescar...";
+
+/* LC.m */
+"Initializing lightcast" = "Inicializando Lightcast";
+
+/* NSDate+Additions.m */
+"just a moment ago" = "hace un instante";
+
+/* LVirtualFSPlugin.m */
+"Cannot create file:" = "No se puede crear el archivo";
+
+/* LDatabaseManager.m, LPluginManager.m */
+"Schema upgrader cannot be initialized" = "No se pudo inicializar la actualización del esquema";
+
+/* LVirtualFSPlugin.m */
+"Cannot open file for reading" = "No se pudo abrir el fichero para lectura";
+
+/* LWebServiceClient2.m, LWebServiceClient.m */
+"Cannot initialize JSON Parser" = "No se pudo inicializar el parseo JSON";
+
+/* LUrlDownloader.m */
+"Target download directory is not available" = "El directorio de descarga no está disponible";
+
+/* NSDate+Additions.m */
+"<1m" = "<1m";
+
+/* NSDate+Additions.m */
+"M/d/yy" = "d/M/yy";
+
+/* NSDate+Additions.m */
+"yyyy" = "yyyy";
+
+/* LWebServiceClient.m */
+"Invalid response returned from server, status code: %d, data: %s" = "Respuesta del servidor no válida, código: %d, datos: %s";
+
+/* LDatabaseManager.m */
+"Database adapter with the same identifier (%@) already initialized" = "Ya se ha inicializado un adaptador de base de datos con el mismo id (%@)";
+
+/* LPluginManager.m */
+"Plugin could not be initialized properly, error: %@" = "El plugin no se pudo inicializar correctamente: %@";
+
+/* LC.m */
+"Upgrading system files" = "Actualizando los archivos del sistema";
+
+/* NSDate+Additions.m */
+"MMMM" = "MMMM";
+
+/* NSDate+Additions.m */
+"Today" = "Hoy";
+
+/* LUrlDownloader.m */
+"Invalid Server Response (Invalid redirect)" = "Respuesta de servidor no válida (redirección no válida)";
+
+/* LVirtualFSPlugin.m */
+"Cannot remove file:" = "No se pudo borrar el archivo";
+
+/* LWebServiceClient2.m */
+"HTTP error (Response code: %d)" = "Error HTTP (código de respuesta: %d)";
+
+/* NSDate+Additions.m */
+"EEE h:mm a" = "EEE h:mm a";
+
+/* LTableViewPullRefresh.m */
+"Last Updated: never" = "Última actualización: nunca";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running upgradeTo: %\" NSINT \": %@" = "Excepción no controlada durante la actualización a: %\" NSINT \": %@";
+
+/* LPluginManager.m */
+"Dependant plugins missing - for plugin (%@): %@ " = "Faltan los plugins dependendientes del plugin (%@): %@";
+
+/* NSDate+Additions.m */
+"MMMM d" = "d MMMM";
+
+/* LViewController.m, NSWindow+Additions.m, LAppUpgrades.m */
+"Unknown Error" = "Error desconocido";
+
+/* UI-General.m */
+"OK" = "OK";
+
+/* LDatabaseManager.m */
+"Cannot initialize SQL parser" = "o se pudo inicializar el parseo SQL";
+
+/* LUrlDownloader.m */
+"Reached the maximum number of redirects" = "Se ha alcanzando el número máximo de redirecciones";
+
+/* LiTunesProductsRequest.m */
+"Invalid (null) response" = "Respuesta no válida (null)";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running afterExecute upgrades" = "Excepción no controlada durante la ejecución de las tareas posteriores a la actualización";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) already initialized" = "AppDatabaseInstance con identificador: (%@) ya inicializado";
+
+/* LTableViewPullRefresh.m */
+"Last Updated: %@" = "Última actualización: %@";
+
+/* LDatabaseSchema.m */
+"Cannot acquire schema versions, schema table may not exist" = "No se pueden obtener las versiones del esquema. Puede que la tabla de esquemas no exista.";
+
+/* LSQLiteDatabaseAdapter.m */
+"Generic SQLite error (%d): %@" = "Error genérico de SQLite (%d): %@";
+
+/* LC.m */
+"Invalid system object - not inherited from LSystemObject" = "Objeto del sistema no válido - no deriva de LSystemObject";
+
+/* LC.m */
+"Cannot initialize system object: %@" = "No se puede inicializar el objeto del sistema: %@";
+
+/* NSDate+Additions.m */
+"%d hours ago" = "Hace %d horas";
+
+/* NSDate+Additions.m */
+"about a minute ago" = "hace un minuto";
+
+/* LPluginManager.m */
+"Plugin %@ initialized" = "Plugin %d inicializado";
+
+/* NSFileManager+Additions.m */
+"%d bytes" = "%d bytes";
+
+/* NSDate+Additions.m */
+"%dm" = "%dm";
+
+/* LSQLiteDatabaseAdapter.m */
+"SQLite Opening Error: %s" = "Error abriendo SQLite: %s";
+
+/* LAdvancedTableViewController.m */
+"No Data" = "No hay datos.";
+
+/* NSDate+Additions.m */
+"%d minutes ago" = "Hace %d minutos";
+
+/* LDatabaseManager.m */
+"Error while trying to restore the database from the backup - backup the application and contact support!" = "Error mientras se intentaba restaurar la base datos desde el backup - contacta con support@stampii.com";
+
+/* LUrlDownloader.m */
+"Could not create next connection (%@)" = "No se pudo crear la siguiente conexión (%@)";
+
+/* NSDate+Additions.m */
+"h:mm a" = "h:mm a";
+
+/* LVirtualFSPlugin.m */
+"Could not write data to vfs:" = "No se pudo escribir la información";
+
+/* LWebServiceClient.m */
+"Cannot obtain URL for the connection" = "No se pudo obtener la URL de la conexión";
+
+/* NSDate+Additions.m */
+"about an hour ago" = "hace una hora";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running beforeExecute upgrades" = "Excepción no controlada durante la ejecución de las tareas anteriores a la actualización";
+
+/* NSDate+Additions.m */
+"EEEE, LLLL d, YYYY" = "EEEE, LLLL d, YYYY";
+
+/* LWebServiceClient2.m */
+"Unsupported Server API Level (supported: %d, server returned: %d)" = "API no soportada (soportada: %d, devuelta por el servidor: %d)";
+
+/* LUrlDownloader.m */
+"Could not create temporary file for storing the downloaded data (%@)" = "No se pudo crear el fichero temporal para almacenar los datos descargados (%@)";
+
+/* LDatabaseSchema.m */
+"Could not upgrade schema: %@" = "No se pudo actualizar el esquema: %@";
+
+/* LiTunesProductsRequest.m */
+"Cannot make payments. Make sure that In-App-Purchases are enabed in the Settings app" = "No se pueden realizar pagos. Asegúrate que los compras internas están habilitadas en las Preferencias";
+
+/* LVirtualFSPlugin.m */
+"VFS requires a database" = "VFS precisa de una base de datos";
+
+/* LTableViewPullRefresh.m */
+"Release to refresh..." = "Suelta para refrescar...";
+
+/* LUrlDownloader.m */
+"Connection timeout (%f)" = "Timeout de conexión (%f)";
+
+/* NSFileManager+Additions.m */
+"%d KB" = "%d KB";
+
+/* NSDate+Additions.m */
+"Yesterday" = "Ayer";
+
+/* LC.m */
+"Cannot complete app upgrades" = "No se pudo completar la actualización de la aplicación";
+
+/* NSDate+Additions.m */
+"%dh" = "%dh";
+
+/* LDatabaseSchema.m */
+"Logic Error - either internal error or target schema version lower than current. Cannot Continue, current version: %d, target version: %d" = "Error lógico. Se probujo un error interno o bien el esquema destino es de una versión anterior al actual. No se puede continuar - versión actual: %d, versión destino: %d";
+
+/* LUrlDownloader.m */
+"Server did not return any data" = "El servidor no devolvió ningún dato";
+
+/* LSQLiteDatabaseAdapter.m */
+"SQLite is busy" = "SQLite ocupado";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - invalid arguments supplied" = "AppDatabaseInstance con identificador: (%@) no puede inicializarse - argumentos no válidos";
+
+/* LVirtualFSPlugin.m */
+"File not found" = "Archivo no encontrado";
+
+/* LUrlDownloader.m */
+"Could not read data from server (%d)" = "No se pudo leer la información del servidor (%d)";
+
+/* NSDate+Additions.m */
+"EEEE" = "EEEE";
+
+/* LPluginManager.m */
+"Lightcast version does not meet the plugin's requirements (%@), min: %@, max: %@, current: %@ " = "Versión de Lightcast no compatible con los requisitos de los plugins (%@), min: %@ , max: %@, actual: %@";
+
+/* LWebServiceClient.m */
+"Invalid Response" = "Respuesta no válida";
+
+/* LC.m */
+"The object has already been loaded" = "El objeto ya ha sido cargado";
+
+/* LiTunesProductsRequest.m */
+"Request is already running" = "La petición se está ejecutando";
+
+/* LPluginManager.m */
+"Could not find plugin:" = "No se pudo encontrar el plugin";
+
+/* NSDate+Additions.m */
+"MMM d h:mm a" = "d MMM h:mm a";
+
+/* LiTunesProductsRequest.m */
+"Invalid payment IDs" = "IDs pago no válidos";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - there is an active adapter with the same identifier" = "AppDatabaseInstance con identificador: (%@) no puede inicializarse - ya hay un adaptador activo con el mismo identificador";
+
+/* NSDate+Additions.m */
+"%d seconds ago" = "Hace %d segundos";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - source template database specified: %@ - but does not exist" = "AppDatabaseInstance con identificador: (%@) no puede inicializarse - base de datos no existe";
+
+/* NSFileManager+Additions.m */
+"%d MB" = "%d MB";
+
+/* NSDate+Additions.m */
+"%dd" = "%dd";
+
+/* LUrlDownloader.m */
+"Download already started" = "La descarga ya comenzó. Espera.";
+
+/* LVirtualFSPlugin.m */
+"Cannot load file:" = "No se pudo cargar el archivo";

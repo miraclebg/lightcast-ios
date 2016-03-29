@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'StringsTranslation' target in the 'StringsTranslation' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <Lightcast/Lightcast.h>
+#endif

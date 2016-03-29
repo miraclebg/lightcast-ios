@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Licenses</key>
+	<dict>
+		<key>Lightcast.txt</key>
+		<string>Lightcast (TM)</string>
+		<key>ATMHud.txt</key>
+		<string>ATMHud</string>
+		<key>Base64.txt</key>
+		<string>Base64</string>
+		<key>MagicKit.txt</key>
+		<string>MagicKit</string>
+		<key>MiniZIP.txt</key>
+		<string>MiniZip</string>
+		<key>ObjectiveZIP.txt</key>
+		<string>ObjectiveZip</string>
+		<key>SBJSON.txt</key>
+		<string>SBJSON</string>
+		<key>zlib.txt</key>
+		<string>ZLib</string>
+		<key>CocoaLumberjack.txt</key>
+		<string>CocoaLumberjack</string>
+	</dict>
+</dict>
+</plist>

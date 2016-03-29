@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Lightcast-MacOSX' target in the 'Lightcast-MacOSX' project
+//
+
+#ifdef __OBJC__
+#import <Cocoa/Cocoa.h>
+#import "internal.h"
+#endif

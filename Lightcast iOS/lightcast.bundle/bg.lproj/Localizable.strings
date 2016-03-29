@@ -1,0 +1,299 @@
+/* NSDate+Additions.m */
+"%dd" = "%dd";
+
+/* LWebServiceClient.m */
+"Cannot create request" = "HTTPRequest не може да бъде създаден";
+
+/* LC.m */
+"Initializing complete!" = "Инициализацията приключи!";
+
+/* LUrlDownloader.m */
+"Connection is closed" = "Връзката беше прекратена";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - adapter with type: %@ does not exist" = "AppDatabaseInstance with identifier: (%@) cannot be initialized - adapter with type: %@ does not exist";
+
+/* LUrlDownloader.m */
+"Invalid Server Response (%d)" = "Невалиден отговор от сървъра (%d)";
+
+/* UI-General.m */
+"Alert" = "Внимание";
+
+/* LUrlDownloader.m */
+"Could not write downloaded data to disk: %@" = "Свалените данни не може да бъдат записани: %@";
+
+/* LWebServiceClient.m */
+"Invalid Parameters - missing serviceName" = "Invalid Parameters - missing serviceName";
+
+/* LiTunesProductsRequest.m */
+"No products returned" = "Не бяха открити продукти";
+
+/* LViewController.m, NSWindow+Additions.m, LVirtualFSPlugin.m */
+"Error" = "Грешка";
+
+/* LC.m */
+"Initializing system objects" = "Инициализация на системата";
+
+/* GeneralUtils.m */
+"Close" = "Затваряне";
+
+/* LTableViewPullRefresh.m */
+"Loading..." = "Зареждане...";
+
+/* LAppUpgrades.m */
+"Upgrade to build %d has failed: %@" = "Upgrade to build %d has failed: %@";
+
+/* LTableViewPullRefresh.m */
+"Pull down to refresh..." = "Дръпни за обновяване...";
+
+/* LC.m */
+"Initializing lightcast" = "Инициализация на LIGHTCAST(tm)";
+
+/* NSDate+Additions.m */
+"just a moment ago" = "преди момент";
+
+/* LVirtualFSPlugin.m */
+"Cannot create file:" = "Файла не може да бъде създаден:";
+
+/* LDatabaseManager.m, LPluginManager.m */
+"Schema upgrader cannot be initialized" = "Базата данни не може да бъде ъпгредната";
+
+/* LVirtualFSPlugin.m */
+"Cannot open file for reading" = "Файла не може да бъде отворен";
+
+/* LWebServiceClient2.m, LWebServiceClient.m */
+"Cannot initialize JSON Parser" = "Грешка при инициализацията на JSON парсера";
+
+/* LUrlDownloader.m */
+"Target download directory is not available" = "Директорията не е достъпна";
+
+/* NSDate+Additions.m */
+"<1m" = "<1m";
+
+/* NSDate+Additions.m */
+"M/d/yy" = "M/d/yy";
+
+/* NSDate+Additions.m */
+"yyyy" = "yyyy";
+
+/* LUrlDownloader.m */
+"Invalid Server Response (Invalid redirect)" = "Грешен отговор от сървъра (невалидно препращане)";
+
+/* LWebServiceClient.m */
+"Invalid response returned from server, status code: %d, data: %s" = "Невалиден отговор от сървъра (код: %d, грешка: %s)";
+
+/* LPluginManager.m */
+"Plugin could not be initialized properly, error: %@" = "Plugin could not be initialized properly, error: %@";
+
+/* LDatabaseManager.m */
+"Database adapter with the same identifier (%@) already initialized" = "Database adapter with the same identifier (%@) already initialized";
+
+/* LC.m */
+"Upgrading system files" = "Ъпгрейдване на системата";
+
+/* NSDate+Additions.m */
+"MMMM" = "MMMM";
+
+/* NSDate+Additions.m */
+"Today" = "Днес";
+
+/* LVirtualFSPlugin.m */
+"Cannot remove file:" = "Файла не може да бъде премахнат";
+
+/* LWebServiceClient2.m */
+"HTTP error (Response code: %d)" = "HTTP грешка (код: %d)";
+
+/* NSDate+Additions.m */
+"EEE h:mm a" = "EEE h:mm a";
+
+/* LTableViewPullRefresh.m */
+"Last Updated: never" = "Обновено: -";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running upgradeTo: %d: %@" = "Unhandled exception while running upgradeTo: %d: %@";
+
+/* LPluginManager.m */
+"Dependant plugins missing - for plugin (%@): %@ " = "Dependant plugins missing - for plugin (%@): %@ ";
+
+/* NSDate+Additions.m */
+"MMMM d" = "MMMM d";
+
+/* LViewController.m, NSWindow+Additions.m, LAppUpgrades.m */
+"Unknown Error" = "Неразпозната грешка";
+
+/* UI-General.m */
+"OK" = "ОК";
+
+/* LDatabaseManager.m */
+"Cannot initialize SQL parser" = "Парсера на SQL не може да бъде инициализиран";
+
+/* LUrlDownloader.m */
+"Reached the maximum number of redirects" = "Достигнат е максимума позволени препращания";
+
+/* LiTunesProductsRequest.m */
+"Invalid (null) response" = "Невалиден отговор (NULL)";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running afterExecute upgrades" = "Unhandled exception while running afterExecute upgrades";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) already initialized" = "AppDatabaseInstance with identifier: (%@) already initialized";
+
+/* LTableViewPullRefresh.m */
+"Last Updated: %@" = "Обновено: %@";
+
+/* LDatabaseSchema.m */
+"Cannot acquire schema versions, schema table may not exist" = "Cannot acquire schema versions, schema table may not exist";
+
+/* LSQLiteDatabaseAdapter.m */
+"Generic SQLite error (%d): %@" = "SQLite грешка (%d): %@";
+
+/* LC.m */
+"Invalid system object - not inherited from LSystemObject" = "Invalid system object - not inherited from LSystemObject";
+
+/* LC.m */
+"Cannot initialize system object: %@" = "Системният обект %@ не може да бъде инициализиран";
+
+/* NSDate+Additions.m */
+"%d hours ago" = "преди %d часа";
+
+/* NSDate+Additions.m */
+"about a minute ago" = "преди около минута";
+
+/* LPluginManager.m */
+"Plugin %@ initialized" = "Плъгин %@ е инициализиран";
+
+/* NSFileManager+Additions.m */
+"%d bytes" = "%d байта";
+
+/* NSDate+Additions.m */
+"%dm" = "%dm";
+
+/* LSQLiteDatabaseAdapter.m */
+"SQLite Opening Error: %s" = "SQLite грешка при отваряне: %s";
+
+/* LAdvancedTableViewController.m */
+"No Data" = "Няма данни";
+
+/* NSDate+Additions.m */
+"%d minutes ago" = "преди %d минути";
+
+/* LDatabaseManager.m */
+"Error while trying to restore the database from the backup - backup the application and contact support!" = "Грешка при взимането на базата данни от системният архив - моля архивирайте ръчно данните и се свържете с Поддръжка!";
+
+/* LUrlDownloader.m */
+"Could not create next connection (%@)" = "Не може да се осъществи връзка (%@)";
+
+/* NSDate+Additions.m */
+"h:mm a" = "h:mm a";
+
+/* LVirtualFSPlugin.m */
+"Could not write data to vfs:" = "Записа на данни към VFS е невъзможен:";
+
+/* LWebServiceClient.m */
+"Cannot obtain URL for the connection" = "Не може да се определи URL на връзката";
+
+/* NSDate+Additions.m */
+"about an hour ago" = "преди около час";
+
+/* LAppUpgrades.m */
+"Unhandled exception while running beforeExecute upgrades" = "Unhandled exception while running beforeExecute upgrades";
+
+/* NSDate+Additions.m */
+"EEEE, LLLL d, YYYY" = "EEEE, LLLL d, YYYY";
+
+/* LWebServiceClient2.m */
+"Unsupported Server API Level (supported: %d, server returned: %d)" = "Неподдържана API версия (макс. поддържана: %d, текуща: %d)";
+
+/* LUrlDownloader.m */
+"Could not create temporary file for storing the downloaded data (%@)" = "Не може да се създаде временен файл за съхранение на свалените данни (%@)";
+
+/* LDatabaseSchema.m */
+"Could not upgrade schema: %@" = "Схемата на базата данни не може да бъде обновена: %@";
+
+/* LiTunesProductsRequest.m */
+"Cannot make payments. Make sure that In-App-Purchases are enabed in the Settings app" = "Не може да се извърши заплащането. Проверете дали са дадени права за това в Настройки";
+
+/* LVirtualFSPlugin.m */
+"VFS requires a database" = "VFS изисква база данни";
+
+/* LTableViewPullRefresh.m */
+"Release to refresh..." = "Пусни за обновяване...";
+
+/* LUrlDownloader.m */
+"Connection timeout (%f)" = "Времето за връзка изтече (%f)";
+
+/* NSFileManager+Additions.m */
+"%d KB" = "%d КБ";
+
+/* NSDate+Additions.m */
+"Yesterday" = "Вчера";
+
+/* LC.m */
+"Cannot complete app upgrades" = "Грешка при обновяването на системните данни";
+
+/* NSDate+Additions.m */
+"%dh" = "%dh";
+
+/* LDatabaseSchema.m */
+"Logic Error - either internal error or target schema version lower than current. Cannot Continue, current version: %d, target version: %d" = "Програмна грешка - текущата версия на схемата на базата данни е по-нова от току що инсталираната";
+
+/* LUrlDownloader.m */
+"Server did not return any data" = "Сървъра не върна никакви данни";
+
+/* LSQLiteDatabaseAdapter.m */
+"SQLite is busy" = "SQLite е зает";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - invalid arguments supplied" = "AppDatabaseInstance with identifier: (%@) cannot be initialized - invalid arguments supplied";
+
+/* LVirtualFSPlugin.m */
+"File not found" = "Файла е недостъпен";
+
+/* LUrlDownloader.m */
+"Could not read data from server (%d)" = "Данните от сървъра не могат да бъдат прочетени (%d)";
+
+/* NSDate+Additions.m */
+"EEEE" = "EEEE";
+
+/* LPluginManager.m */
+"Lightcast version does not meet the plugin's requirements (%@), min: %@, max: %@, current: %@ " = "Плъгина не е съвместим с Lightcast (%@), мин. %@, макс. %@, текуща: %@";
+
+/* LWebServiceClient.m */
+"Invalid Response" = "Невалиден отговор от сървъра";
+
+/* LC.m */
+"The object has already been loaded" = "Обекта вече е зареден";
+
+/* LiTunesProductsRequest.m */
+"Request is already running" = "Заявката вече се осъществява";
+
+/* LPluginManager.m */
+"Could not find plugin:" = "Плъгина не е открит:";
+
+/* NSDate+Additions.m */
+"MMM d h:mm a" = "MMM d h:mm a";
+
+/* LiTunesProductsRequest.m */
+"Invalid payment IDs" = "Невалидни ID-та за плащане";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - there is an active adapter with the same identifier" = "AppDatabaseInstance with identifier: (%@) cannot be initialized - there is an active adapter with the same identifier";
+
+/* NSDate+Additions.m */
+"%d seconds ago" = "преди %d секунди";
+
+/* LDatabaseManager.m */
+"AppDatabaseInstance with identifier: (%@) cannot be initialized - source template database specified: %@ - but does not exist" = "AppDatabaseInstance with identifier: (%@) cannot be initialized - source template database specified: %@ - but does not exist";
+
+/* NSFileManager+Additions.m */
+"%d MB" = "%d МБ";
+
+/* LWebServiceClient.m */
+"General error: %@" = "Системна грешка: %@";
+
+/* LUrlDownloader.m */
+"Download already started" = "Свалянето вече е започнало";
+
+/* LVirtualFSPlugin.m */
+"Cannot load file:" = "Файла не може да бъде зареден:";

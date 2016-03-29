@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultBundleName</key>
+	<string>lightcast.bundle</string>
+	<key>SkippedItems</key>
+	<array/>
+	<key>LocalizedStringPatterns</key>
+	<array>
+		<string>LightcastLocalizedString\\(\\@\&quot;([\\w\\d\\s]+?)\&quot;[\\s\\n]*\\)</string>
+	</array>
+</dict>
+</plist>
